@@ -1,0 +1,30 @@
+*{
+	box-sizing: border-box;
+}
+
+#meuNome{
+    text-align: center;
+}
+
+#header{
+    border: 2px solid black;
+}
+
+#apresent{
+    border: 2px solid black;
+    height: 317px;
+    position: relative;
+}
+
+#fto{
+    float: left;
+    width: 240px;
+    padding: 10px;
+    background-color: cadetblue;
+    
+}
+#descri{
+    position: absolute;
+    right: 380px;
+    top: 100px;
+}
